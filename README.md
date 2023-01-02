@@ -13,7 +13,7 @@ This News App is based on *MERN Technology*
   
   To work with above command make sure that *node.js* is already installed on your PC.  
   
-  Create a file in the News app folder and name it as .env.local  and  place your API key in it.   
+  Open a .env.local file in the News app folder replace add your api key with your's API key.   
   
   Then start the app by using the following command   { *npm start* }.  
   
